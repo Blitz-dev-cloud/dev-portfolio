@@ -69,8 +69,8 @@ const HeroSection = ({ isDark }) => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.8 }}
           >
-            Hola!
-            <br /> Passionate Computer Science student, Fullstack developer,
+            Konnichiwa!
+            <br />I'm a Passionate Computer Science student, Fullstack developer,
             Blockchain Engineer and an aspiring DeFi Developer crafting digital
             experiences with modern technologies. Always learning, always
             building, always pushing boundaries.
