@@ -16,7 +16,7 @@ const Footer = ({ isDark }) => {
             viewport={{ once: true }}
             className="mb-6 md:mb-0"
           >
-            <h3 className="text-2xl font-bold mb-2">&lt;Student.Dev/&gt;</h3>
+            <h3 className="text-2xl font-bold mb-2">&lt;Blitz.Dev/&gt;</h3>
             <p className="text-gray-400">
               Learning, building, and growing every day.
             </p>
