@@ -48,7 +48,7 @@ const ProjectsSection = ({ isDark }) => {
       tech: ["React", "Tailwind CSS", "Firebase", "Leaflet"],
       category: "fullstack",
       github: "https://github.com/Rajnish-y/Web-Project.git",
-      live: "https://github.com/Rajnish-y/Web-Project.git",
+      live: "https://web-project-six-umber.vercel.app/",
     },
     {
       id: 5,
