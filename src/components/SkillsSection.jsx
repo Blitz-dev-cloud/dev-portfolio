@@ -30,7 +30,6 @@ const SkillsSection = ({ isDark }) => {
     },
     { name: "Git", icon: TechIcons.Git, color: "#f05032", level: 90 },
     { name: "Docker", icon: TechIcons.Docker, color: "#2496ed", level: 70 },
-    { name: "AWS", icon: TechIcons.AWS, color: "#ff9900", level: 65 },
     { name: "Figma", icon: TechIcons.Figma, color: "#f24e1e", level: 75 },
   ];
 
@@ -163,7 +162,7 @@ const SkillsSection = ({ isDark }) => {
             >
               <span className="text-purple-500">const</span>{" "}
               <span className={isDark ? "text-blue-400" : "text-blue-600"}>
-                alexSkills
+                mySkills
               </span>{" "}
               <span className={isDark ? "text-gray-300" : "text-gray-700"}>
                 =
